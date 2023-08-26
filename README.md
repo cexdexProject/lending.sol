@@ -1,5 +1,5 @@
 
-Lending Pool Smart Contract
+
 Description
 This Solidity smart contract, "LendingPool," serves as a basic implementation of a lending pool, allowing users to deposit and withdraw ERC20 tokens. It enables users to lend their tokens to the pool and withdraw them when needed. The contract is owned by the deployer and ensures secure token transfers through the OpenZeppelin library.
 
