@@ -19,6 +19,7 @@ Installation
 Install the required Solidity compiler.
 Install the OpenZeppelin Contracts library using the command: npm install @openzeppelin/contracts.
 Compile the contract using the Solidity compiler.
+
 Deploy the smart contract on the Ethereum network.
 
 
