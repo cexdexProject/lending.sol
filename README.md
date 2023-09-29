@@ -9,6 +9,7 @@ deposit(address token, uint256 amount): Allows users to deposit ERC20 tokens int
 withdraw(address token, uint256 amount): Enables users to withdraw deposited ERC20 tokens from the lending pool. The requested amount is transferred back to the user's address if they have sufficient balance in the pool.
 
 
+
 balanceOf(address account, address token): Returns the balance of ERC20 tokens held by a specific account in the lending pool.
 Prerequisites for the project
 Solidity version 0.8.0 or higher
